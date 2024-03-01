@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/tests/Gedmo/Translatable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Sluggable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Sortable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Tree" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Timestampable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Blameable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/IpTraceable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Mapping" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Loggable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Wrapper" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Translator" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/SoftDeleteable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/Uploadable" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/ReferenceIntegrity" />
+        <option value="$PROJECT_DIR$/tests/Gedmo/References" />
+      </list>
+    </option>
+  </component>
+</project>

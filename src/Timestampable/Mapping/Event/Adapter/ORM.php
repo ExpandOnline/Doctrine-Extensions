@@ -42,7 +42,7 @@ final class ORM extends BaseAdapterORM implements TimestampableAdapter
      *
      * @return \DateTimeInterface|int
      */
-    private function getRawDateValue(array $mapping)
+    private function getRawDateValue($mapping)
     {
         $datetime = new \DateTime();
         $type = $mapping['type'] ?? null;
